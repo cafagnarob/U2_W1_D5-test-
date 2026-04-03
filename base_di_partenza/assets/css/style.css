@@ -8,7 +8,7 @@
 /*  */
 /*  */
 /* ciao stefano non sono riuscito a finire la versione mobile, ma la versione tablet (800px) e la versione desk (1200) sono ok,
-con questo voglio solo dire che se si apre la version emobile prima sarà tutto rotto :)  */
+con questo voglio solo dire che se si apre la versione mobile prima sarà tutto rotto :)  */
 /*  */
 /*  */
 /*  */
@@ -94,6 +94,7 @@ con questo voglio solo dire che se si apre la version emobile prima sarà tutto 
   }
 
   .post-nav {
+    margin: 100px 0;
     padding-left: 1em;
     display: flex;
     flex-direction: row;
@@ -171,6 +172,7 @@ con questo voglio solo dire che se si apre la version emobile prima sarà tutto 
   }
 
   .aside-section-a {
+    margin-bottom: 30px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -420,6 +422,7 @@ con questo voglio solo dire che se si apre la version emobile prima sarà tutto 
   }
 
   .post-nav {
+    margin: 0;
     padding-left: 4em;
     display: flex;
     flex-direction: row;
@@ -497,6 +500,7 @@ con questo voglio solo dire che se si apre la version emobile prima sarà tutto 
   }
 
   .aside-section-a {
+    margin-bottom: 0;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -742,6 +746,7 @@ con questo voglio solo dire che se si apre la version emobile prima sarà tutto 
   }
 
   .post-nav {
+    margin: 0;
     padding-left: 4em;
     display: flex;
     flex-direction: row;
@@ -820,6 +825,7 @@ con questo voglio solo dire che se si apre la version emobile prima sarà tutto 
   }
 
   .aside-section-a {
+    margin-bottom: 0;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
