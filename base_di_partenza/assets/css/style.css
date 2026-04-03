@@ -136,6 +136,7 @@ con questo voglio solo dire che se si apre la versione mobile prima sarà tutto 
   }
 
   .second-article {
+    justify-content: space-between;
     height: fit-content;
     display: flex;
     flex-direction: row;
@@ -464,6 +465,7 @@ con questo voglio solo dire che se si apre la versione mobile prima sarà tutto 
   }
 
   .second-article {
+    justify-content: space-between;
     height: fit-content;
     display: flex;
     flex-direction: row;
@@ -788,6 +790,7 @@ con questo voglio solo dire che se si apre la versione mobile prima sarà tutto 
   }
 
   .second-article {
+    justify-content: space-between;
     height: fit-content;
     display: flex;
     flex-direction: row;
